@@ -8,7 +8,7 @@ Converted official election data from the Zimbabwe Electoral Commission. Current
 
 ### Source
 
-[Zimbabwe Electoral Commission](http://www.zec.gov.zw/download)
+[Zimbabwe Electoral Commission](http://www.zec.gov.zw/download) PDF files converted using [Tabula](http://tabula.nerdpower.org/).
 
 ### LICENSE
 
